@@ -1,0 +1,17 @@
+{
+  "name": "trimulabs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cassandra-driver": "^4.6.3",
+    "express": "^4.17.1",
+    "express-cassandra": "^2.6.0"
+  }
+}
